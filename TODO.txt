@@ -1,0 +1,11 @@
+-add mobile responsiveness- DONE
+-add score counter using Local Storage- DONE
+-fix sticky footer- DONE
+-scroll bar appearing for no reason-FIXED LINE HEIGHT
+-parse capital strings with ' ('- DONE
+-easy/medium/hard feedback-DONE, still to add serverside code.
+-create multiple choice answers -DONE
+-do not repeat questions _DONE
+-add 'pass' button to bypass a question and fail it. -DONE
+-make alternate capitals valid answers
+-add countdown timer to prevent Googling answers.

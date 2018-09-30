@@ -1,0 +1,1556 @@
+[
+  {
+    "SNo": 1,
+    "Country": "United Arab Emirates",
+    "Capital City": "Abu Dhabi",
+    "Notes": ""
+  },
+  {
+    "SNo": 2,
+    "Country": "Nigeria",
+    "Capital City": "Abuja",
+    "Notes": ""
+  },
+  {
+    "SNo": 3,
+    "Country": "Ghana",
+    "Capital City": "Accra",
+    "Notes": ""
+  },
+  {
+    "SNo": 4,
+    "Country": "Pitcairn Islands",
+    "Capital City": "Adamstown",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 5,
+    "Country": "Ethiopia",
+    "Capital City": "Addis Ababa",
+    "Notes": ""
+  },
+  {
+    "SNo": 6,
+    "Country": "Algeria",
+    "Capital City": "Algiers",
+    "Notes": ""
+  },
+  {
+    "SNo": 7,
+    "Country": "Niue",
+    "Capital City": "Alofi",
+    "Notes": "Self-governing in free association with New Zealand."
+  },
+  {
+    "SNo": 8,
+    "Country": "Jordan",
+    "Capital City": "Amman",
+    "Notes": ""
+  },
+  {
+    "SNo": 9,
+    "Country": "Netherlands",
+    "Capital City": "Amsterdam",
+    "Notes": "The Dutch constitution refers to Amsterdam as the \"capital\". The Dutch government is located in The Hague. See Capital of the Netherlands."
+  },
+  {
+    "SNo": 10,
+    "Country": "Andorra",
+    "Capital City": "Andorra la Vella",
+    "Notes": ""
+  },
+  {
+    "SNo": 11,
+    "Country": "Turkey",
+    "Capital City": "Ankara",
+    "Notes": ""
+  },
+  {
+    "SNo": 12,
+    "Country": "Madagascar",
+    "Capital City": "Antananarivo",
+    "Notes": ""
+  },
+  {
+    "SNo": 13,
+    "Country": "Samoa",
+    "Capital City": "Apia",
+    "Notes": ""
+  },
+  {
+    "SNo": 14,
+    "Country": "Turkmenistan",
+    "Capital City": "Ashgabat",
+    "Notes": ""
+  },
+  {
+    "SNo": 15,
+    "Country": "Eritrea",
+    "Capital City": "Asmara",
+    "Notes": ""
+  },
+  {
+    "SNo": 16,
+    "Country": "Kazakhstan",
+    "Capital City": "Astana",
+    "Notes": ""
+  },
+  {
+    "SNo": 17,
+    "Country": "Paraguay",
+    "Capital City": "Asuncion",
+    "Notes": ""
+  },
+  {
+    "SNo": 18,
+    "Country": "Greece",
+    "Capital City": "Athens",
+    "Notes": ""
+  },
+  {
+    "SNo": 19,
+    "Country": "Cook Islands",
+    "Capital City": "Avarua",
+    "Notes": "Self-governing in free association with New Zealand."
+  },
+  {
+    "SNo": 20,
+    "Country": "Iraq",
+    "Capital City": "Baghdad",
+    "Notes": ""
+  },
+  {
+    "SNo": 21,
+    "Country": "Azerbaijan",
+    "Capital City": "Baku",
+    "Notes": ""
+  },
+  {
+    "SNo": 22,
+    "Country": "Mali",
+    "Capital City": "Bamako",
+    "Notes": ""
+  },
+  {
+    "SNo": 23,
+    "Country": "Brunei",
+    "Capital City": "Bandar Seri Begawan",
+    "Notes": ""
+  },
+  {
+    "SNo": 24,
+    "Country": "Thailand",
+    "Capital City": "Bangkok",
+    "Notes": ""
+  },
+  {
+    "SNo": 25,
+    "Country": "Central African Republic",
+    "Capital City": "Bangui",
+    "Notes": ""
+  },
+  {
+    "SNo": 26,
+    "Country": "Gambia",
+    "Capital City": "Banjul",
+    "Notes": ""
+  },
+  {
+    "SNo": 27,
+    "Country": "Saint Kitts and Nevis",
+    "Capital City": "Basseterre",
+    "Notes": ""
+  },
+  {
+    "SNo": 28,
+    "Country": "China",
+    "Capital City": "Beijing",
+    "Notes": ""
+  },
+  {
+    "SNo": 29,
+    "Country": "Lebanon",
+    "Capital City": "Beirut",
+    "Notes": ""
+  },
+  {
+    "SNo": 30,
+    "Country": "Serbia",
+    "Capital City": "Belgrade",
+    "Notes": ""
+  },
+  {
+    "SNo": 31,
+    "Country": "Belize",
+    "Capital City": "Belmopan",
+    "Notes": ""
+  },
+  {
+    "SNo": 32,
+    "Country": "Germany",
+    "Capital City": "Berlin",
+    "Notes": ""
+  },
+  {
+    "SNo": 33,
+    "Country": "Switzerland",
+    "Capital City": "Bern",
+    "Notes": ""
+  },
+  {
+    "SNo": 34,
+    "Country": "Kyrgyzstan",
+    "Capital City": "Bishkek",
+    "Notes": ""
+  },
+  {
+    "SNo": 35,
+    "Country": "Guinea-Bissau",
+    "Capital City": "Bissau",
+    "Notes": ""
+  },
+  {
+    "SNo": 36,
+    "Country": "Colombia",
+    "Capital City": "Bogota",
+    "Notes": ""
+  },
+  {
+    "SNo": 37,
+    "Country": "Brazil",
+    "Capital City": "Brasilia",
+    "Notes": ""
+  },
+  {
+    "SNo": 38,
+    "Country": "Slovakia",
+    "Capital City": "Bratislava",
+    "Notes": ""
+  },
+  {
+    "SNo": 39,
+    "Country": "Republic of the Congo",
+    "Capital City": "Brazzaville",
+    "Notes": ""
+  },
+  {
+    "SNo": 40,
+    "Country": "Barbados",
+    "Capital City": "Bridgetown",
+    "Notes": ""
+  },
+  {
+    "SNo": 41,
+    "Country": "Belgium",
+    "Capital City": "Brussels",
+    "Notes": "Also the de facto capital of the European Union"
+  },
+  {
+    "SNo": 42,
+    "Country": "Romania",
+    "Capital City": "Bucharest",
+    "Notes": ""
+  },
+  {
+    "SNo": 43,
+    "Country": "Hungary",
+    "Capital City": "Budapest",
+    "Notes": ""
+  },
+  {
+    "SNo": 44,
+    "Country": "Argentina",
+    "Capital City": "Buenos Aires",
+    "Notes": ""
+  },
+  {
+    "SNo": 45,
+    "Country": "Burundi",
+    "Capital City": "Bujumbura",
+    "Notes": ""
+  },
+  {
+    "SNo": 46,
+    "Country": "Egypt",
+    "Capital City": "Cairo",
+    "Notes": ""
+  },
+  {
+    "SNo": 47,
+    "Country": "Australia",
+    "Capital City": "Canberra",
+    "Notes": ""
+  },
+  {
+    "SNo": 48,
+    "Country": "Venezuela",
+    "Capital City": "Caracas",
+    "Notes": ""
+  },
+  {
+    "SNo": 49,
+    "Country": "Saint Lucia",
+    "Capital City": "Castries",
+    "Notes": ""
+  },
+  {
+    "SNo": 50,
+    "Country": "French Guiana",
+    "Capital City": "Cayenne",
+    "Notes": "Overseas department of France"
+  },
+  {
+    "SNo": 51,
+    "Country": "United States Virgin Islands",
+    "Capital City": "Charlotte Amalie",
+    "Notes": "Territory of the United States"
+  },
+  {
+    "SNo": 52,
+    "Country": "Moldova",
+    "Capital City": "Chisinau",
+    "Notes": ""
+  },
+  {
+    "SNo": 53,
+    "Country": "Turks and Caicos Islands",
+    "Capital City": "Cockburn Town",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 54,
+    "Country": "Guinea",
+    "Capital City": "Conakry",
+    "Notes": ""
+  },
+  {
+    "SNo": 55,
+    "Country": "Denmark",
+    "Capital City": "Copenhagen",
+    "Notes": ""
+  },
+  {
+    "SNo": 56,
+    "Country": "Senegal",
+    "Capital City": "Dakar",
+    "Notes": ""
+  },
+  {
+    "SNo": 57,
+    "Country": "Syria",
+    "Capital City": "Damascus",
+    "Notes": ""
+  },
+  {
+    "SNo": 58,
+    "Country": "Bangladesh",
+    "Capital City": "Dhaka",
+    "Notes": ""
+  },
+  {
+    "SNo": 59,
+    "Country": "East Timor (Timor-Leste)",
+    "Capital City": "Dili",
+    "Notes": ""
+  },
+  {
+    "SNo": 60,
+    "Country": "Djibouti",
+    "Capital City": "Djibouti",
+    "Notes": ""
+  },
+  {
+    "SNo": 61,
+    "Country": "Tanzania",
+    "Capital City": "Dodoma (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Dar es Salaam (former capital; some government offices remaining)",
+    "Notes": ""
+  },
+  {
+    "SNo": 62,
+    "Country": "Qatar",
+    "Capital City": "Doha",
+    "Notes": ""
+  },
+  {
+    "SNo": 63,
+    "Country": "Isle of Man",
+    "Capital City": "Douglas",
+    "Notes": "British Crown Dependency"
+  },
+  {
+    "SNo": 64,
+    "Country": "Ireland",
+    "Capital City": "Dublin",
+    "Notes": ""
+  },
+  {
+    "SNo": 65,
+    "Country": "Tajikistan",
+    "Capital City": "Dushanbe",
+    "Notes": ""
+  },
+  {
+    "SNo": 66,
+    "Country": "Tristan da Cunha",
+    "Capital City": "Edinburgh of the Seven Seas",
+    "Notes": "Part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "SNo": 67,
+    "Country": "Sahrawi Arab Democratic Republic",
+    "Capital City": "El Aaiun (declared)",
+    "Notes": "The Sahrawi Republic, recognised by 82 states, claims the mostly Moroccan controlled Western Sahara. Moroccan controlled territory includes El Aaiun, and Morocco claims all Sahrawi controlled territory. The Sahrawi government resides in exile in Tindouf, Algeria. See Politics of the Sahrawi Arab Democratic Republic."
+  },
+  {
+    "SNo": 68,
+    "Country": "Akrotiri and Dhekelia",
+    "Capital City": "Episkopi Cantonment",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 69,
+    "Country": "Christmas Island",
+    "Capital City": "Flying Fish Cove",
+    "Notes": "External territory of Australia"
+  },
+  {
+    "SNo": 70,
+    "Country": "Sierra Leone",
+    "Capital City": "Freetown",
+    "Notes": ""
+  },
+  {
+    "SNo": 71,
+    "Country": "Tuvalu",
+    "Capital City": "Funafuti",
+    "Notes": ""
+  },
+  {
+    "SNo": 72,
+    "Country": "Botswana",
+    "Capital City": "Gaborone",
+    "Notes": ""
+  },
+  {
+    "SNo": 73,
+    "Country": "Cayman Islands",
+    "Capital City": "George Town",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 74,
+    "Country": "Ascension Island",
+    "Capital City": "Georgetown",
+    "Notes": "Part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "SNo": 75,
+    "Country": "Guyana",
+    "Capital City": "Georgetown",
+    "Notes": ""
+  },
+  {
+    "SNo": 76,
+    "Country": "Gibraltar",
+    "Capital City": "Gibraltar",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 77,
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Capital City": "Grytviken",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 78,
+    "Country": "Guatemala",
+    "Capital City": "Guatemala City",
+    "Notes": ""
+  },
+  {
+    "SNo": 79,
+    "Country": "Saint Barthelemy",
+    "Capital City": "Gustavia",
+    "Notes": "Overseas collectivity of France"
+  },
+  {
+    "SNo": 80,
+    "Country": "Guam",
+    "Capital City": "Hagatna",
+    "Notes": "Territory of the United States"
+  },
+  {
+    "SNo": 81,
+    "Country": "Bermuda",
+    "Capital City": "Hamilton",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 82,
+    "Country": "Easter Island",
+    "Capital City": "Hanga Roa",
+    "Notes": "Special territory of Chile"
+  },
+  {
+    "SNo": 83,
+    "Country": "Vietnam",
+    "Capital City": "Hanoi",
+    "Notes": ""
+  },
+  {
+    "SNo": 84,
+    "Country": "Zimbabwe",
+    "Capital City": "Harare",
+    "Notes": ""
+  },
+  {
+    "SNo": 85,
+    "Country": "Somaliland",
+    "Capital City": "Hargeisa",
+    "Notes": "De facto independent state not diplomatically recognized by any other state, claimed in whole by the Somali Republic."
+  },
+  {
+    "SNo": 86,
+    "Country": "Cuba",
+    "Capital City": "Havana",
+    "Notes": ""
+  },
+  {
+    "SNo": 87,
+    "Country": "Finland",
+    "Capital City": "Helsinki",
+    "Notes": ""
+  },
+  {
+    "SNo": 88,
+    "Country": "Solomon Islands",
+    "Capital City": "Honiara",
+    "Notes": ""
+  },
+  {
+    "SNo": 89,
+    "Country": "Pakistan",
+    "Capital City": "Islamabad",
+    "Notes": ""
+  },
+  {
+    "SNo": 90,
+    "Country": "Indonesia",
+    "Capital City": "Jakarta",
+    "Notes": ""
+  },
+  {
+    "SNo": 91,
+    "Country": "Saint Helena",
+    "Capital City": "Jamestown",
+    "Notes": "Part of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha"
+  },
+  {
+    "SNo": 92,
+    "Country": "Israel",
+    "Capital City": "Jerusalem (declared, de facto)",
+    "Notes": "Jerusalem Law states that \"Jerusalem, complete and united, is the capital of Israel\", and the city serves as the seat of the government, home to the president's residence, government offices, supreme court, and parliament. United Nations Security Council Resolution 478 declared the Jerusalem Law \"null and void\" and called on member states to withdraw their diplomatic missions from Jerusalem. The United Nations and all member states maintain their embassies in other cities such as Tel Aviv, Ramat Gan, and Herzliya, and do not recognise Jerusalem as the capital. Many countries officially adhere to the proposal that Jerusalem have international status, as called for in the Partition Plan of 1947. The Palestinian National Authority claims East Jerusalem as the capital of a future Palestinian state. See Positions on Jerusalem."
+  },
+  {
+    "SNo": 93,
+    "Country": "State of Palestine",
+    "Capital City": "Jerusalem (declared)",
+    "Notes": "The State of Palestine claims the territories occupied by Israel since the Six-Day War in 1967, with East Jerusalem as its capital. The proclaimed state is currently occupied by Israel and has no effective control over the territories it claims. Administration is based in Ramallah and Gaza, rather than Jerusalem. Most members of the United Nations regard East Jerusalem as occupied territory, and the Organisation of Islamic Cooperation, the Arab League and the Non-Aligned Movement recognise it as the capital of a future Palestinian state. See Positions on Jerusalem."
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Ramallah and Gaza (de facto)",
+    "Notes": ""
+  },
+  {
+    "SNo": 94,
+    "Country": "South Sudan",
+    "Capital City": "Juba",
+    "Notes": ""
+  },
+  {
+    "SNo": 95,
+    "Country": "Afghanistan",
+    "Capital City": "Kabul",
+    "Notes": ""
+  },
+  {
+    "SNo": 96,
+    "Country": "Uganda",
+    "Capital City": "Kampala",
+    "Notes": ""
+  },
+  {
+    "SNo": 97,
+    "Country": "Nepal",
+    "Capital City": "Kathmandu",
+    "Notes": ""
+  },
+  {
+    "SNo": 98,
+    "Country": "Sudan",
+    "Capital City": "Khartoum",
+    "Notes": ""
+  },
+  {
+    "SNo": 99,
+    "Country": "Ukraine",
+    "Capital City": "Kiev",
+    "Notes": ""
+  },
+  {
+    "SNo": 100,
+    "Country": "Rwanda",
+    "Capital City": "Kigali",
+    "Notes": ""
+  },
+  {
+    "SNo": 101,
+    "Country": "Jamaica",
+    "Capital City": "Kingston",
+    "Notes": ""
+  },
+  {
+    "SNo": 102,
+    "Country": "Norfolk Island",
+    "Capital City": "Kingston",
+    "Notes": "External territory of Australia"
+  },
+  {
+    "SNo": 103,
+    "Country": "Saint Vincent and the Grenadines",
+    "Capital City": "Kingstown",
+    "Notes": ""
+  },
+  {
+    "SNo": 104,
+    "Country": "Democratic Republic of the Congo",
+    "Capital City": "Kinshasa",
+    "Notes": ""
+  },
+  {
+    "SNo": 105,
+    "Country": "Malaysia",
+    "Capital City": "Kuala Lumpur (official, legislative and royal)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Putrajaya (administrative and judicial)",
+    "Notes": ""
+  },
+  {
+    "SNo": 106,
+    "Country": "Kuwait",
+    "Capital City": "Kuwait City",
+    "Notes": ""
+  },
+  {
+    "SNo": 107,
+    "Country": "Gabon",
+    "Capital City": "Libreville",
+    "Notes": ""
+  },
+  {
+    "SNo": 108,
+    "Country": "Malawi",
+    "Capital City": "Lilongwe",
+    "Notes": ""
+  },
+  {
+    "SNo": 109,
+    "Country": "Peru",
+    "Capital City": "Lima",
+    "Notes": ""
+  },
+  {
+    "SNo": 110,
+    "Country": "Portugal",
+    "Capital City": "Lisbon",
+    "Notes": ""
+  },
+  {
+    "SNo": 111,
+    "Country": "Slovenia",
+    "Capital City": "Ljubljana",
+    "Notes": ""
+  },
+  {
+    "SNo": 112,
+    "Country": "Togo",
+    "Capital City": "Lome",
+    "Notes": ""
+  },
+  {
+    "SNo": 113,
+    "Country": "United Kingdom",
+    "Capital City": "London",
+    "Notes": "Prior to the Acts of Union in 1707, London was the capital of England only. Edinburgh was the capital of the Kingdom of Scotland"
+  },
+  {
+    "SNo": 114,
+    "Country": "Angola",
+    "Capital City": "Luanda",
+    "Notes": ""
+  },
+  {
+    "SNo": 115,
+    "Country": "Zambia",
+    "Capital City": "Lusaka",
+    "Notes": ""
+  },
+  {
+    "SNo": 116,
+    "Country": "Luxembourg",
+    "Capital City": "Luxembourg",
+    "Notes": ""
+  },
+  {
+    "SNo": 117,
+    "Country": "Spain",
+    "Capital City": "Madrid",
+    "Notes": ""
+  },
+  {
+    "SNo": 118,
+    "Country": "Marshall Islands",
+    "Capital City": "Majuro",
+    "Notes": ""
+  },
+  {
+    "SNo": 119,
+    "Country": "Equatorial Guinea",
+    "Capital City": "Malabo",
+    "Notes": ""
+  },
+  {
+    "SNo": 120,
+    "Country": "Maldives",
+    "Capital City": "Male",
+    "Notes": ""
+  },
+  {
+    "SNo": 121,
+    "Country": "Nicaragua",
+    "Capital City": "Managua",
+    "Notes": ""
+  },
+  {
+    "SNo": 122,
+    "Country": "Bahrain",
+    "Capital City": "Manama",
+    "Notes": ""
+  },
+  {
+    "SNo": 123,
+    "Country": "Philippines",
+    "Capital City": "Manila",
+    "Notes": ""
+  },
+  {
+    "SNo": 124,
+    "Country": "Mozambique",
+    "Capital City": "Maputo",
+    "Notes": ""
+  },
+  {
+    "SNo": 125,
+    "Country": "Saint Martin",
+    "Capital City": "Marigot",
+    "Notes": "Overseas collectivity of France"
+  },
+  {
+    "SNo": 126,
+    "Country": "Lesotho",
+    "Capital City": "Maseru",
+    "Notes": ""
+  },
+  {
+    "SNo": 127,
+    "Country": "Wallis and Futuna",
+    "Capital City": "Mata-Utu",
+    "Notes": "Overseas collectivity of France"
+  },
+  {
+    "SNo": 128,
+    "Country": "Swaziland",
+    "Capital City": "Mbabane (administrative)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Lobamba (royal and legislative)",
+    "Notes": ""
+  },
+  {
+    "SNo": 129,
+    "Country": "Palau",
+    "Capital City": "Melekeok (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Ngerulmud (seat of government)",
+    "Notes": ""
+  },
+  {
+    "SNo": 130,
+    "Country": "Mexico",
+    "Capital City": "Mexico City",
+    "Notes": ""
+  },
+  {
+    "SNo": 131,
+    "Country": "Belarus",
+    "Capital City": "Minsk",
+    "Notes": ""
+  },
+  {
+    "SNo": 132,
+    "Country": "Somalia",
+    "Capital City": "Mogadishu",
+    "Notes": ""
+  },
+  {
+    "SNo": 133,
+    "Country": "Monaco",
+    "Capital City": "Monaco",
+    "Notes": "City-state"
+  },
+  {
+    "SNo": 134,
+    "Country": "Liberia",
+    "Capital City": "Monrovia",
+    "Notes": ""
+  },
+  {
+    "SNo": 135,
+    "Country": "Uruguay",
+    "Capital City": "Montevideo",
+    "Notes": ""
+  },
+  {
+    "SNo": 136,
+    "Country": "Comoros",
+    "Capital City": "Moroni",
+    "Notes": ""
+  },
+  {
+    "SNo": 137,
+    "Country": "Russia",
+    "Capital City": "Moscow",
+    "Notes": ""
+  },
+  {
+    "SNo": 138,
+    "Country": "Oman",
+    "Capital City": "Muscat",
+    "Notes": ""
+  },
+  {
+    "SNo": 139,
+    "Country": "Kenya",
+    "Capital City": "Nairobi",
+    "Notes": ""
+  },
+  {
+    "SNo": 140,
+    "Country": "Bahamas",
+    "Capital City": "Nassau",
+    "Notes": ""
+  },
+  {
+    "SNo": 141,
+    "Country": "Burma",
+    "Capital City": "Naypyidaw",
+    "Notes": ""
+  },
+  {
+    "SNo": 142,
+    "Country": "Chad",
+    "Capital City": "N'Djamena",
+    "Notes": ""
+  },
+  {
+    "SNo": 143,
+    "Country": "India",
+    "Capital City": "New Delhi",
+    "Notes": ""
+  },
+  {
+    "SNo": 144,
+    "Country": "Niger",
+    "Capital City": "Niamey",
+    "Notes": ""
+  },
+  {
+    "SNo": 145,
+    "Country": "Cyprus",
+    "Capital City": "Nicosia",
+    "Notes": ""
+  },
+  {
+    "SNo": 146,
+    "Country": "Northern Cyprus",
+    "Capital City": "Nicosia",
+    "Notes": "De facto independent state that is recognised only by Turkey. Northern Cyprus is claimed in whole by the Republic of Cyprus."
+  },
+  {
+    "SNo": 147,
+    "Country": "Mauritania",
+    "Capital City": "Nouakchott",
+    "Notes": ""
+  },
+  {
+    "SNo": 148,
+    "Country": "New Caledonia",
+    "Capital City": "Noumea",
+    "Notes": "Sui generis collectivity of France"
+  },
+  {
+    "SNo": 149,
+    "Country": "Tonga",
+    "Capital City": "Nuku'alofa",
+    "Notes": ""
+  },
+  {
+    "SNo": 150,
+    "Country": "Greenland",
+    "Capital City": "Nuuk",
+    "Notes": "Self-governing territory of the Danish Realm"
+  },
+  {
+    "SNo": 151,
+    "Country": "Aruba",
+    "Capital City": "Oranjestad",
+    "Notes": "Self-governing part of the Kingdom of the Netherlands"
+  },
+  {
+    "SNo": 152,
+    "Country": "Norway",
+    "Capital City": "Oslo",
+    "Notes": ""
+  },
+  {
+    "SNo": 153,
+    "Country": "Canada",
+    "Capital City": "Ottawa",
+    "Notes": ""
+  },
+  {
+    "SNo": 154,
+    "Country": "Burkina Faso",
+    "Capital City": "Ouagadougou",
+    "Notes": ""
+  },
+  {
+    "SNo": 155,
+    "Country": "American Samoa",
+    "Capital City": "Pago Pago",
+    "Notes": "Territory of the United States"
+  },
+  {
+    "SNo": 156,
+    "Country": "Federated States of Micronesia",
+    "Capital City": "Palikir",
+    "Notes": ""
+  },
+  {
+    "SNo": 157,
+    "Country": "Panama",
+    "Capital City": "Panama City",
+    "Notes": ""
+  },
+  {
+    "SNo": 158,
+    "Country": "French Polynesia",
+    "Capital City": "Papeete",
+    "Notes": "Overseas collectivity of France"
+  },
+  {
+    "SNo": 159,
+    "Country": "Suriname",
+    "Capital City": "Paramaribo",
+    "Notes": ""
+  },
+  {
+    "SNo": 160,
+    "Country": "France",
+    "Capital City": "Paris",
+    "Notes": ""
+  },
+  {
+    "SNo": 161,
+    "Country": "Sint Maarten",
+    "Capital City": "Philipsburg",
+    "Notes": "Self-governing part of the Kingdom of the Netherlands"
+  },
+  {
+    "SNo": 162,
+    "Country": "Cambodia",
+    "Capital City": "Phnom Penh",
+    "Notes": ""
+  },
+  {
+    "SNo": 163,
+    "Country": "Montserrat",
+    "Capital City": "Plymouth (official)",
+    "Notes": "British Overseas Territory. Plymouth was abandoned after the eruption of the Soufriere Hills volcano in 1997. Government offices since then have been moved to Brades Estate, which is in the northwestern part of Montserrat."
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Brades Estate (de facto)",
+    "Notes": ""
+  },
+  {
+    "SNo": 164,
+    "Country": "Montenegro",
+    "Capital City": "Podgorica (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Cetinje (seat of the President)",
+    "Notes": ""
+  },
+  {
+    "SNo": 165,
+    "Country": "Mauritius",
+    "Capital City": "Port Louis",
+    "Notes": ""
+  },
+  {
+    "SNo": 166,
+    "Country": "Papua New Guinea",
+    "Capital City": "Port Moresby",
+    "Notes": ""
+  },
+  {
+    "SNo": 167,
+    "Country": "Vanuatu",
+    "Capital City": "Port Vila",
+    "Notes": ""
+  },
+  {
+    "SNo": 168,
+    "Country": "Haiti",
+    "Capital City": "Port-au-Prince",
+    "Notes": ""
+  },
+  {
+    "SNo": 169,
+    "Country": "Trinidad and Tobago",
+    "Capital City": "Port of Spain",
+    "Notes": ""
+  },
+  {
+    "SNo": 170,
+    "Country": "Benin",
+    "Capital City": "Porto-Novo (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Cotonou (de facto)",
+    "Notes": ""
+  },
+  {
+    "SNo": 171,
+    "Country": "Czech Republic",
+    "Capital City": "Prague",
+    "Notes": ""
+  },
+  {
+    "SNo": 172,
+    "Country": "Cape Verde",
+    "Capital City": "Praia",
+    "Notes": ""
+  },
+  {
+    "SNo": 173,
+    "Country": "South Africa",
+    "Capital City": "Pretoria (executive)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Bloemfontein (judicial)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Cape Town (legislative)",
+    "Notes": ""
+  },
+  {
+    "SNo": 174,
+    "Country": "Kosovo",
+    "Capital City": "Pristina",
+    "Notes": "De facto independent state that is recognised by 107 UN member states and by Taiwan. Claimed in whole by the Republic of Serbia as part of its Autonomous Province of Kosovo and Metohija. Republic of Kosovo has de facto control over most of the territory, with limited control in North Kosovo."
+  },
+  {
+    "SNo": 175,
+    "Country": "North Korea",
+    "Capital City": "Pyongyang",
+    "Notes": ""
+  },
+  {
+    "SNo": 176,
+    "Country": "Ecuador",
+    "Capital City": "Quito",
+    "Notes": "Highest official capital."
+  },
+  {
+    "SNo": 177,
+    "Country": "Morocco",
+    "Capital City": "Rabat",
+    "Notes": ""
+  },
+  {
+    "SNo": 178,
+    "Country": "Iceland",
+    "Capital City": "Reykjavik",
+    "Notes": ""
+  },
+  {
+    "SNo": 179,
+    "Country": "Latvia",
+    "Capital City": "Riga",
+    "Notes": ""
+  },
+  {
+    "SNo": 180,
+    "Country": "Saudi Arabia",
+    "Capital City": "Riyadh",
+    "Notes": ""
+  },
+  {
+    "SNo": 181,
+    "Country": "British Virgin Islands",
+    "Capital City": "Road Town",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 182,
+    "Country": "Italy",
+    "Capital City": "Rome",
+    "Notes": ""
+  },
+  {
+    "SNo": 183,
+    "Country": "Dominica",
+    "Capital City": "Roseau",
+    "Notes": ""
+  },
+  {
+    "SNo": 184,
+    "Country": "Northern Mariana Islands",
+    "Capital City": "Saipan",
+    "Notes": "Territory of the United States"
+  },
+  {
+    "SNo": 185,
+    "Country": "Costa Rica",
+    "Capital City": "San Jose",
+    "Notes": ""
+  },
+  {
+    "SNo": 186,
+    "Country": "Puerto Rico",
+    "Capital City": "San Juan",
+    "Notes": "Territory of the United States"
+  },
+  {
+    "SNo": 187,
+    "Country": "San Marino",
+    "Capital City": "San Marino",
+    "Notes": ""
+  },
+  {
+    "SNo": 188,
+    "Country": "El Salvador",
+    "Capital City": "San Salvador",
+    "Notes": ""
+  },
+  {
+    "SNo": 189,
+    "Country": "Yemen",
+    "Capital City": "Sana'a",
+    "Notes": ""
+  },
+  {
+    "SNo": 190,
+    "Country": "Chile",
+    "Capital City": "Santiago (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Valparaiso (legislative)",
+    "Notes": ""
+  },
+  {
+    "SNo": 191,
+    "Country": "Dominican Republic",
+    "Capital City": "Santo Domingo",
+    "Notes": ""
+  },
+  {
+    "SNo": 192,
+    "Country": "Sao Tome and Principe",
+    "Capital City": "Sao Tome",
+    "Notes": ""
+  },
+  {
+    "SNo": 193,
+    "Country": "Bosnia and Herzegovina",
+    "Capital City": "Sarajevo",
+    "Notes": ""
+  },
+  {
+    "SNo": 194,
+    "Country": "South Korea",
+    "Capital City": "Seoul",
+    "Notes": ""
+  },
+  {
+    "SNo": 195,
+    "Country": "Singapore",
+    "Capital City": "Singapore",
+    "Notes": "City-state"
+  },
+  {
+    "SNo": 196,
+    "Country": "Macedonia",
+    "Capital City": "Skopje",
+    "Notes": ""
+  },
+  {
+    "SNo": 197,
+    "Country": "Bulgaria",
+    "Capital City": "Sofia",
+    "Notes": ""
+  },
+  {
+    "SNo": 198,
+    "Country": "Sri Lanka",
+    "Capital City": "Sri Jayawardenepura Kotte (official)",
+    "Notes": "Also known as \"Kotte\". Until the 1980s, the capital was Colombo, where many important governmental institutions still remain and which is still designated as the commercial capital of Sri Lanka."
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Colombo (former capital; has some government offices)",
+    "Notes": ""
+  },
+  {
+    "SNo": 199,
+    "Country": "Grenada",
+    "Capital City": "St. George's",
+    "Notes": ""
+  },
+  {
+    "SNo": 200,
+    "Country": "Jersey",
+    "Capital City": "St. Helier",
+    "Notes": "British Crown Dependency"
+  },
+  {
+    "SNo": 201,
+    "Country": "Antigua and Barbuda",
+    "Capital City": "St. John's",
+    "Notes": ""
+  },
+  {
+    "SNo": 202,
+    "Country": "Guernsey",
+    "Capital City": "St. Peter Port",
+    "Notes": "British Crown Dependency"
+  },
+  {
+    "SNo": 203,
+    "Country": "Saint Pierre and Miquelon",
+    "Capital City": "St. Pierre",
+    "Notes": "Overseas collectivity of France"
+  },
+  {
+    "SNo": 204,
+    "Country": "Falkland Islands",
+    "Capital City": "Stanley",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 205,
+    "Country": "Nagorno-Karabakh Republic",
+    "Capital City": "Stepanakert",
+    "Notes": "The self-declared country remains diplomatically unrecognised by UN-member states, including Armenia. Transnistria, South Ossetia, and Abkhazia, all UN non-member states, recognise the state. Claimed in whole by Azerbaijan."
+  },
+  {
+    "SNo": 206,
+    "Country": "Sweden",
+    "Capital City": "Stockholm",
+    "Notes": ""
+  },
+  {
+    "SNo": 207,
+    "Country": "Bolivia",
+    "Capital City": "Sucre (constitutional)",
+    "Notes": "La Paz is the highest administrative capital, higher than Quito."
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "La Paz (administrative)",
+    "Notes": ""
+  },
+  {
+    "SNo": 208,
+    "Country": "Abkhazia",
+    "Capital City": "Sukhumi",
+    "Notes": "De facto independent state recognised by Russia, Nauru, Nicaragua, Venezuela, South Ossetia and Transnistria. Claimed in whole by Republic of Georgia as the Autonomous Republic of Abkhazia."
+  },
+  {
+    "SNo": 209,
+    "Country": "Fiji",
+    "Capital City": "Suva",
+    "Notes": ""
+  },
+  {
+    "SNo": 210,
+    "Country": "Taiwan",
+    "Capital City": "Taipei",
+    "Notes": "Officially the Republic of China (ROC), it has been competing for recognition with the People's Republic of China (PRC) as the sole Chinese government since 1949. Taiwan controls the island of Taiwan and its associated islands, Quemoy, Matsu, the Pratas, and part of the Spratly Islands The territory of Taiwan is claimed in whole by China. The Republic of China participates in the World Health Organization and a number of non-UN international organizations such as the World Trade Organization, International Olympic Committee and others under a variety of pseudonyms, most commonly Chinese Taipei."
+  },
+  {
+    "SNo": 211,
+    "Country": "Estonia",
+    "Capital City": "Tallinn",
+    "Notes": ""
+  },
+  {
+    "SNo": 212,
+    "Country": "Kiribati",
+    "Capital City": "Tarawa",
+    "Notes": ""
+  },
+  {
+    "SNo": 213,
+    "Country": "Uzbekistan",
+    "Capital City": "Tashkent",
+    "Notes": ""
+  },
+  {
+    "SNo": 214,
+    "Country": "Georgia",
+    "Capital City": "Tbilisi (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Kutaisi (legislative)",
+    "Notes": ""
+  },
+  {
+    "SNo": 215,
+    "Country": "Honduras",
+    "Capital City": "Tegucigalpa",
+    "Notes": ""
+  },
+  {
+    "SNo": 216,
+    "Country": "Iran",
+    "Capital City": "Tehran",
+    "Notes": ""
+  },
+  {
+    "SNo": 217,
+    "Country": "Bhutan",
+    "Capital City": "Thimphu",
+    "Notes": ""
+  },
+  {
+    "SNo": 218,
+    "Country": "Albania",
+    "Capital City": "Tirana",
+    "Notes": ""
+  },
+  {
+    "SNo": 219,
+    "Country": "Transnistria",
+    "Capital City": "Tiraspol",
+    "Notes": "De facto independent state, not recognized by any UN-member, but by Abkhazia and South Ossetia. Claimed in whole by the Republic of Moldova as the Territorial Unit of Transnistria."
+  },
+  {
+    "SNo": 220,
+    "Country": "Japan",
+    "Capital City": "Tokyo",
+    "Notes": ""
+  },
+  {
+    "SNo": 221,
+    "Country": "Faroe Islands",
+    "Capital City": "Torshavn",
+    "Notes": "Self-governing territory of the Danish Realm"
+  },
+  {
+    "SNo": 222,
+    "Country": "Libya",
+    "Capital City": "Tripoli",
+    "Notes": ""
+  },
+  {
+    "SNo": 223,
+    "Country": "South Ossetia",
+    "Capital City": "Tskhinvali",
+    "Notes": "De facto independent state recognised by Russia, Nicaragua, Nauru, Venezuela, Abkhazia and Transnistria. Claimed in whole by the Republic of Georgia as the Provisional Administrative Entity of South Ossetia."
+  },
+  {
+    "SNo": 224,
+    "Country": "Tunisia",
+    "Capital City": "Tunis",
+    "Notes": ""
+  },
+  {
+    "SNo": 225,
+    "Country": "Mongolia",
+    "Capital City": "Ulan Bator",
+    "Notes": ""
+  },
+  {
+    "SNo": 226,
+    "Country": "Liechtenstein",
+    "Capital City": "Vaduz",
+    "Notes": ""
+  },
+  {
+    "SNo": 227,
+    "Country": "Malta",
+    "Capital City": "Valletta",
+    "Notes": ""
+  },
+  {
+    "SNo": 228,
+    "Country": "Anguilla",
+    "Capital City": "The Valley",
+    "Notes": "British Overseas Territory"
+  },
+  {
+    "SNo": 229,
+    "Country": "Vatican City",
+    "Capital City": "Vatican City",
+    "Notes": "City-state"
+  },
+  {
+    "SNo": 230,
+    "Country": "Seychelles",
+    "Capital City": "Victoria",
+    "Notes": ""
+  },
+  {
+    "SNo": 231,
+    "Country": "Austria",
+    "Capital City": "Vienna",
+    "Notes": ""
+  },
+  {
+    "SNo": 232,
+    "Country": "Laos",
+    "Capital City": "Vientiane",
+    "Notes": ""
+  },
+  {
+    "SNo": 233,
+    "Country": "Lithuania",
+    "Capital City": "Vilnius",
+    "Notes": ""
+  },
+  {
+    "SNo": 234,
+    "Country": "Poland",
+    "Capital City": "Warsaw",
+    "Notes": ""
+  },
+  {
+    "SNo": 235,
+    "Country": "United States",
+    "Capital City": "Washington, D.C.",
+    "Notes": ""
+  },
+  {
+    "SNo": 236,
+    "Country": "New Zealand",
+    "Capital City": "Wellington",
+    "Notes": ""
+  },
+  {
+    "SNo": 237,
+    "Country": "Cocos (Keeling) Islands",
+    "Capital City": "West Island",
+    "Notes": "External territory of Australia"
+  },
+  {
+    "SNo": 238,
+    "Country": "Curacao",
+    "Capital City": "Willemstad",
+    "Notes": "Self-governing part of the Kingdom of the Netherlands"
+  },
+  {
+    "SNo": 239,
+    "Country": "Namibia",
+    "Capital City": "Windhoek",
+    "Notes": ""
+  },
+  {
+    "SNo": 240,
+    "Country": "Ivory Coast",
+    "Capital City": "Yamoussoukro (official)",
+    "Notes": ""
+  },
+  {
+    "SNo": "",
+    "Country": "",
+    "Capital City": "Abidjan (former capital; still has many government offices)",
+    "Notes": ""
+  },
+  {
+    "SNo": 241,
+    "Country": "Cameroon",
+    "Capital City": "Yaounde",
+    "Notes": ""
+  },
+  {
+    "SNo": 242,
+    "Country": "Nauru",
+    "Capital City": "Yaren (de facto)",
+    "Notes": "Country does not have an official capital; however, the government offices are in Yaren."
+  },
+  {
+    "SNo": 243,
+    "Country": "Armenia",
+    "Capital City": "Yerevan",
+    "Notes": ""
+  },
+  {
+    "SNo": 244,
+    "Country": "Croatia",
+    "Capital City": "Zagreb",
+    "Notes": ""
+  }
+]

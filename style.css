@@ -1,0 +1,152 @@
+.wrapper {
+  background-image: url("img/skyline1.jpg");
+  background-color: #cccccc;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+
+/* =================================
+  Main Content Styles
+==================================== */
+h1 {
+  text-shadow: .3rem .3rem .1rem black;
+  color: #A2DED0;
+  font-weight: 400;
+  font-size: 3rem;
+}
+
+#counterDiv {
+  background-color: #A2DED0;
+  border: 3px black solid;
+  border-radius: 2.5rem;
+}
+
+#counterDiv li {
+  color: black;
+}
+
+.nameBox {
+  font-weight: 800;
+}
+
+form,
+#introDiv {
+  background-color: #f5f5f5;
+  border-radius: 15px;
+  box-shadow: .2rem .2rem;
+}
+
+#startButton,
+#errorMessage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#submitButton {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#resultDiv {
+  box-shadow: .2rem .2rem;
+}
+
+.resultDivSuccess {
+  color: #155724;
+  background-color: #c3e6cb;
+  border-radius: 15px;
+}
+
+.resultDivFailure {
+  color: #721c24;
+  background-color: #f5c6cb;
+  border-radius: 15px;
+}
+
+#countryUl {
+  min-width: 15rem;
+  max-width: 50rem;
+  margin: 3rem auto;
+  box-shadow: .6rem .6rem .2rem black;
+}
+
+#playerName {
+  width: 12rem;
+  margin: auto;
+}
+
+#difficultyDiv {
+  margin-bottom: 2rem;
+  border: 2px solid black;
+  padding: 1.5rem;
+  max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2rem;
+  box-shadow: 0.3rem 0.3rem 0.2rem black;
+}
+
+#tagline {
+  display: block;
+  text-align: center;
+  font-size: 1.5rem;
+  color: purple;
+  text-shadow: .1rem .1rem 2rem yellow;
+  font-style: italic;
+  font-weight: 600;
+  margin-bottom: 2rem;
+}
+
+/* =================================
+Footer Styles
+==================================== */
+
+html, body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+.wrapper {
+  flex: 1 0 auto;
+}
+.footer {
+  flex-shrink: 0;
+  background-color: black;
+  border-top: 1px solid grey;
+  color: white;
+  line-height: 3rem;
+}
+
+.footer p {
+  font-size: .8rem;
+  line-height: 1.5;
+}
+
+
+
+
+/* =================================
+	Media Queries
+==================================== */
+
+@media(min-width: 992px) {
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  .footer p {
+    font-size: 1rem;
+  }
+
+  label {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+  }
+
+}
