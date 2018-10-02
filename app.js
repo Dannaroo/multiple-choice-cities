@@ -2,6 +2,7 @@ const countryName = document.querySelector('#country-name');
 let listJSON = [];
 let countryObject = {};
 const resultDiv = document.querySelector('#resultDiv');
+const resultDivSpan = resultDiv.querySelector('span');
 const resultDivText = resultDiv.querySelector('p');
 const formDiv = document.querySelector('#formDiv');
 const playAgainButton = document.querySelector('#playAgainButton');
@@ -18,6 +19,65 @@ const cancelModals = document.querySelectorAll('.cancelModal');
 const backtoIntroButton = document.querySelector('#backToIntro');
 let randomNumList = [];
 const multipleChoiceButtons = document.querySelectorAll('.multiple-choice');
+const countdownTimerSpan = document.querySelector('#countdownTimer');
+
+// when user gets a question right
+function questionSuccess() {
+  formDiv.style.display = "none";
+  resultDiv.style.display = "";
+  resultDivText.textContent = "Correct!"
+  resultDivSpan.style.display = "none";
+  resultDiv.className = "resultDivSuccess text-center m-5 p-4";
+  playerCount.correct += 1;
+  updateLocalStorage(playerCount);
+  updateCounterDiv();
+    //record the countryObject in playerCount local data.
+  playerCount['questionsAsked'].push(countryObject.SNo);
+  updateLocalStorage(playerCount);
+}
+
+// when user gets a question wrong.
+function questionFail() {
+  formDiv.style.display = "none";
+  resultDiv.style.display = "";
+  resultDivSpan.style.display = "none";
+  resultDivText.textContent = "Sorry, the correct answer is: " + countryObject["Capital City"];
+  resultDiv.className = "resultDivFailure text-center m-5 p-4";
+  playerCount.incorrect += 1;
+  updateLocalStorage(playerCount);
+  updateCounterDiv();
+  //record the countryObject in playerCount local data.
+  playerCount['questionsAsked'].push(countryObject.SNo);
+  updateLocalStorage(playerCount);
+}
+
+
+//////////////// TIMER ////////////////////////////////////////
+function timer() {
+  // Set the date we're counting down to
+  let distance = 6;
+
+  // Update the count down every 1 second
+  const x = setInterval(function() {
+    if(distance > 0) {
+      // clear interval if answer is chosen before countdown ends
+      if(formDiv.style.display === "none") {
+        clearInterval(x);
+      }
+      distance = distance - 1;
+      countdownTimerSpan.innerHTML = distance;
+      console.log(distance);
+            // If the count down is over, write some text
+    } else {
+      clearInterval(x);
+      questionFail();
+      resultDivSpan.style.display = "";
+      resultDivSpan.textContent = "Out of Time!";
+    }
+  }, 1000);
+}
+
+/////////////////////////////////////////////////////////////////
 
 //check if the user's broswer supports Local Storage
 function supportsLocalStorage() {
@@ -105,7 +165,7 @@ function getRandomObject() {
 // compare random number to questions already asked. if its been asked before, generate a new random number and start the loop again(so the whole list can be checked again against the new number). If the nuymber of questions asked is equal to the number of questions possible to be asked, reset the number of questions asked to 0.
   for( let i = 0; i < playerCount['questionsAsked'].length; i += 1)
     while(playerCount['questionsAsked'][i] === randomNum) {
-      if (playerCount['questionsAsked'].length === 244) {
+      if (playerCount['questionsAsked'].length >= 244) {
         playerCount['questionsAsked'] = [];
       }
       randomNum = Math.floor((Math.random() * 244) + 1);
@@ -223,7 +283,7 @@ startButton.addEventListener('click', (event) => {
     //function resetPlayerData() will hide introDiv and show formDiv once the localStorage player name matches the one entered in the text field or the text field is left blank.
     resetPlayerData();
     updateCounterDiv();
-
+    timer();
 
 
   }// supports Local Storage
@@ -236,25 +296,12 @@ for (let i = 0; i < multipleChoiceButtons.length; i += 1) {
     let userResponse = multipleChoiceButtons[i].textContent;
     let correctCity = countryObject["Capital City"];
     if(userResponse === correctCity) {
-      formDiv.style.display = "none";
-      resultDiv.style.display = "";
-      resultDivText.textContent = "Correct!"
-      resultDiv.className = "resultDivSuccess text-center m-5 p-4";
-      playerCount.correct += 1;
-      updateLocalStorage(playerCount);
-      updateCounterDiv();
+      questionSuccess();
     } else {
-      formDiv.style.display = "none";
-      resultDiv.style.display = "";
-      resultDivText.textContent = "Sorry, the correct answer is: " + countryObject["Capital City"];
-      resultDiv.className = "resultDivFailure text-center m-5 p-4";
-      playerCount.incorrect += 1;
-      updateLocalStorage(playerCount);
-      updateCounterDiv();
+      questionFail();
     }
     //record the countryObject in playerCount local data.
-    playerCount['questionsAsked'].push(countryObject.SNo);
-    updateLocalStorage(playerCount);
+
   });
 }
 
@@ -266,7 +313,7 @@ playAgainButton.addEventListener('click', (event) => {
   appendCountryName(countryObject);
   countryUlData(countryObject);
   formDiv.style.display = "";
-  cityNameInput.value = "";
+  timer();
 
 });
 
