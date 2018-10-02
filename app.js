@@ -66,7 +66,6 @@ function timer() {
       }
       distance = distance - 1;
       countdownTimerSpan.innerHTML = distance;
-      console.log(distance);
             // If the count down is over, write some text
     } else {
       clearInterval(x);
@@ -162,15 +161,18 @@ function getRandomObject() {
   //generate a random number between 1 and 244
   let randomNum = Math.floor((Math.random() * 244) + 1);
 
-// compare random number to questions already asked. if its been asked before, generate a new random number and start the loop again(so the whole list can be checked again against the new number). If the nuymber of questions asked is equal to the number of questions possible to be asked, reset the number of questions asked to 0.
-  for( let i = 0; i < playerCount['questionsAsked'].length; i += 1)
-    while(playerCount['questionsAsked'][i] === randomNum) {
-      if (playerCount['questionsAsked'].length >= 244) {
-        playerCount['questionsAsked'] = [];
+// check if the player is new. if they arent. call function to make sure questions arent repeated unnecessarily.
+if(playerCount) {
+  // compare random number to questions already asked. if its been asked before, generate a new random number and start the loop again(so the whole list can be checked again against the new number). If the nuymber of questions asked is equal to the number of questions possible to be asked, reset the number of questions asked to 0.
+    for( let i = 0; i < playerCount['questionsAsked'].length; i += 1)
+      while(playerCount['questionsAsked'][i] === randomNum) {
+        if (playerCount['questionsAsked'].length >= 244) {
+          playerCount['questionsAsked'] = [];
+        }
+        randomNum = Math.floor((Math.random() * 244) + 1);
+        i = 0;
       }
-      randomNum = Math.floor((Math.random() * 244) + 1);
-      i = 0;
-    }
+}
   // find the corresponding object for the random number generated and return the object
   for(i = 0; i < listJSON.length; i += 1) {
     const objectNum = listJSON[i].SNo;
@@ -205,7 +207,6 @@ function getFiveCities(correctCity) {
       return a;
   }
   sixCities = shuffle(sixCities);
-  console.log(sixCities);
   updateMultipleChoice(sixCities);
 }
 
@@ -272,7 +273,7 @@ if(supportsLocalStorage) {
 //ensure a player name is entered if player doesnt exist when start Button is clicked.
 startButton.addEventListener('click', (event) => {
   event.preventDefault();
-  //user has no playerName and playerCount does not exist. remove erro message
+  //user has no playerName and playerCount does not exist. show error message
   if(playerName.value === "" && !playerCount) {
     nameErrorMessage.style.display = "";
     return;
@@ -325,4 +326,6 @@ backToIntroButton.addEventListener('click', (event) => {
   countryUlData(countryObject);
   introDiv.style.display = "";
   resultDiv.style.display = "none";
+  nameErrorMessage.style.display = "none";
+  playerName.value = "";
 });
