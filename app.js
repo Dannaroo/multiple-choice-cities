@@ -54,7 +54,7 @@ function questionFail() {
 
 //////////////// TIMER ////////////////////////////////////////
 function timer() {
-  // Set the date we're counting down to
+  // Set the number of seconds to count down from
   let distance = 6;
 
   // Update the count down every 1 second
