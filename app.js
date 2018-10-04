@@ -177,23 +177,34 @@ if(playerCount) {
   for(i = 0; i < listJSON.length; i += 1) {
     const objectNum = listJSON[i].SNo;
     if(randomNum === objectNum) {
-      getFiveCities(listJSON[i]['Capital City'])
+      getFiveCities(i);
       return listJSON[i];
     }
   }
 }
 
+let filteredList;
 //fetch 5 random (incorrect) city names from the Json list to display as multiple choice options.
-function getFiveCities(correctCity) {
+function getFiveCities(correctCountryNum) {
+  console.log(correctCountryNum);
+  const correctCountryObject = listJSON[correctCountryNum];
+  console.log(correctCountryObject)
+  const correctCity = listJSON[correctCountryNum]['Capital City'];
   let fiveRandoms = [];
   let sixCities = [];
   let randomCities = [];
-  //get 5 random numbers
-  for (let i = 0; i < 5; i += 1) {
-    fiveRandoms.push(Math.floor((Math.random() * 244) + 1));
+  filteredList = listJSON.filter(item => item !== correctCountryObject);
+
+  //get 5 random numbers that do not repeat.
+  while (fiveRandoms.length < 5) {
+    // random number between 1 and 244. minus 1 for an index value
+    randomNumber = Math.floor((Math.random() * 244) + 1) - 1;
+    if(fiveRandoms.indexOf(randomNumber) > -1) continue;
+    fiveRandoms[fiveRandoms.length] = randomNumber;
   }
+
   //use the random numbers to get random capital city names
-  fiveRandoms.forEach(num => sixCities.push(listJSON[num]['Capital City']));
+  fiveRandoms.forEach(num => sixCities.push(filteredList[num]['Capital City']));
   sixCities.push(correctCity);
   //assign the 5 incorrect and 1 correct city names to a new array in a random order.
   function shuffle(a) {
@@ -257,7 +268,7 @@ xhr.onreadystatechange = function () {
     }
   }
 };
-xhr.open('GET', 'https://raw.githubusercontent.com/Dannaroo/capital-city-quiz/gh-pages/country-city-list.json');
+xhr.open('GET','https://raw.githubusercontent.com/Dannaroo/multiple-choice-cities/gh-pages/country-city-list.json');
 // xhr.open('GET', 'country-city-list.json');
 xhr.send();
 
